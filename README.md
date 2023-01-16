@@ -7,7 +7,7 @@ Flutter Developer 📱
 </h2>
 
 ### 🤝 Connect with me: 
-<a href="https://www.linkedin.com/in/patryk-midura/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Patryk Midura | LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/patryk-midura/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Patryk Midura | LinkedIn"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
