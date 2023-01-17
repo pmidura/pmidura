@@ -3,7 +3,7 @@ Hi there, I'm Patryk 👋
 </h3>
 
 <h2 align="center">
-Flutter Developer 📱
+Engineer of Computer Science and Econometrics 💻
 </h2>
 
 ### 🤝 Connect with me: 
@@ -13,7 +13,6 @@ Flutter Developer 📱
 
 ## 🔭 I'm currently working on
 
-- My old projects
 - Engineer project - Explore Exchange Rates App (Flutter)
 - Forecasting exchange rates using the LSTM method (Flask)
 
