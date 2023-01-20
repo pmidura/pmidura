@@ -35,4 +35,4 @@ Engineer of Computer Science and Econometrics 💻
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pmidura&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmidura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pmidura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
