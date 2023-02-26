@@ -11,10 +11,9 @@ Engineer of Computer Science and Econometrics 💻
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<!--## 🔭 I'm currently working on
+## 🔭 I'm currently working on
 
-- Engineer project - Explore Exchange Rates App (Flutter)
-- Forecasting exchange rates using the LSTM method (Flask)-->
+- Proprietary mobile app - ENCS Chat - with E2E encryption (Flutter)
 
 ## 🌱 I'm currently learning
 
