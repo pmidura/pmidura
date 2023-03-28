@@ -13,7 +13,7 @@ Engineer of Computer Science and Econometrics 💻
 
 ## 🔭 I'm currently working on
 
-- Proprietary mobile app - ENCS Chat - with E2E encryption (Flutter)
+- Visualise, Understand, Learn & Practice BLoC Concepts
 
 ## 🌱 I'm currently learning
 
