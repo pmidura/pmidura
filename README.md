@@ -17,10 +17,7 @@ Engineer of Computer Science and Econometrics 💻
 
 ## 🌱 I'm currently learning
 
-- 📱 Flutter
-- Google Firebase
-- Python
-- Flask
+- 📱 Flutter BLoC
 
 ## 💼 Technical Skills
 
