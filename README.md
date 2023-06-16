@@ -3,7 +3,8 @@ Hi there, I'm Patryk 👋
 </h3>
 
 <h2 align="center">
-Engineer of Computer Science and Econometrics 💻
+<!-- Engineer of Computer Science and Econometrics 💻 -->
+Junior Flutter Developer 📱
 </h2>
 
 ### 🤝 Connect with me: 
@@ -11,13 +12,13 @@ Engineer of Computer Science and Econometrics 💻
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+<!-- ## 🔭 I'm currently working on
 
 - Visualise, Understand, Learn & Practice BLoC Concepts
 
 ## 🌱 I'm currently learning
 
-- 📱 Flutter BLoC
+- 📱 Flutter BLoC -->
 
 ## 💼 Technical Skills
 
