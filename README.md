@@ -3,8 +3,8 @@ Hi there, I'm Patryk 👋
 </h3>
 
 <h2 align="center">
-<!-- Engineer of Computer Science and Econometrics 💻 -->
-Junior Flutter Developer 📱
+Engineer of Computer Science and Econometrics 💻
+<!-- Junior Flutter Developer 📱 -->
 </h2>
 
 ### 🤝 Connect with me: 
@@ -12,21 +12,24 @@ Junior Flutter Developer 📱
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<!-- ## 🔭 I'm currently working on
+## 🔭 I'm currently working on
 
-- Visualise, Understand, Learn & Practice BLoC Concepts
+<!-- - Visualise, Understand, Learn & Practice BLoC Concepts -->
+- My own mobile application, which I would like to launch on Google Play Store and App Store
 
 ## 🌱 I'm currently learning
 
-- 📱 Flutter BLoC -->
+- 📱 Flutter BLoC
+- ☁ Firebase
 
 ## 💼 Technical Skills
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
 ## 📈 GitHub Stats 
 
