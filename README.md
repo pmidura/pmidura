@@ -42,6 +42,6 @@ Engineer of Computer Science and Econometrics 💻
 
 ## 📈 GitHub Stats 
 
-[![Patryk's GitHub stats](https://github-readme-stats-pmidura.vercel.app/api?username=pmidura&count_private=true&show_icons=true&theme=tokyonight)]
+![Patryk's GitHub stats](https://github-readme-stats-pmidura.vercel.app/api?username=pmidura&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats-pmidura.vercel.app/api/top-langs/?username=pmidura&layout=compact)]
+![Top Langs](https://github-readme-stats-pmidura.vercel.app/api/top-langs/?username=pmidura&layout=compact)
