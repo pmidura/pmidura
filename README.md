@@ -4,7 +4,7 @@ Hi there, I'm Patryk 👋
 
 <h2 align="center">
 Engineer of Computer Science and Econometrics 💻
-<!-- Junior Flutter Developer 📱 -->
+Junior Flutter Developer 📱
 </h2>
 
 ### 🤝 Connect with me: 
@@ -12,10 +12,14 @@ Engineer of Computer Science and Econometrics 💻
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+<!-- ## 🔭 I'm currently working on -->
 
 <!-- - Visualise, Understand, Learn & Practice BLoC Concepts -->
-- My own mobile application, which I would like to launch on Google Play Store and App Store
+<!-- - My own mobile application, which I would like to launch on Google Play Store and App Store -->
+
+## 📱 My apps on Google Play Store
+
+ - Gun Ready: https://play.google.com/store/apps/details?id=com.pmidura.gunready
 
 ## 🌱 I'm currently learning
 
