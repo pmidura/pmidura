@@ -3,7 +3,7 @@ Hi there, I'm Patryk 👋
 </h3>
 
 <h2 align="center">
-Engineer of Computer Science and Econometrics 💻
+<!-- Engineer of Computer Science and Econometrics 💻 -->
 Junior Flutter Developer 📱
 </h2>
 
