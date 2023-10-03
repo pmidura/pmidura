@@ -20,6 +20,7 @@ Junior Flutter Developer 📱
 ## 📱 My apps on Google Play Store
 
  - Gun Ready: https://play.google.com/store/apps/details?id=com.pmidura.gunready
+ - Currency Master: https://play.google.com/store/apps/details?id=com.pmidura.currencymaster
 
 ## 🌱 I'm currently learning
 
