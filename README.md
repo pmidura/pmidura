@@ -51,7 +51,6 @@ Junior Flutter Developer 📱
 
 [![Top Langs](https://github-readme-stats-pmidura.vercel.app/api/top-langs/?username=pmidura&layout=compact)](https://github.com/pmidura/github-readme-stats) -->
 
-
 [![Patryk's GitHub stats](https://github-readme-stats-xi-one-66.vercel.app/api?username=pmidura&show_icons=true&theme=tokyonight)](https://github.com/pmidura/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-xi-one-66.vercel.app/api/top-langs/?username=pmidura&layout=compact)](https://github.com/pmidura/github-readme-stats)
