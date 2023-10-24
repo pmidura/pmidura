@@ -60,7 +60,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
    <a href="https://github.com/pmidura">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmidura&theme=radical&border=7F3FBF&background=0D1117" alt="Patryk Midura GitHub Streak"/>
    </a>
@@ -75,23 +75,23 @@
 <a> 
    <a href="https://github.com/pmidura">
       <img alt="Patryk Midura Github Stats"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pmidura&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+         src="https://github-readme-stats-pmidura.vercel.app/api?username=pmidura&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
          height="192px"
          width="49.5%" />
    </a>
    <a href="https://github.com/pmidura">
       <img alt="Patryk Midura Top Languages"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pmidura&langs_count=6&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+         src="https://github-readme-stats-pmidura.vercel.app/api/top-langs/?username=pmidura&langs_count=6&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
          height="192px"
          width="49.5%" />
    </a>
-</a>
+</a> -->
 
-<!-- [![Patryk's GitHub stats](https://github-readme-stats-pmidura.vercel.app/api?username=pmidura&show_icons=true&theme=tokyonight)](https://github.com/pmidura/github-readme-stats)
+[![Patryk's GitHub stats](https://github-readme-stats-pmidura.vercel.app/api?username=pmidura&show_icons=true&theme=tokyonight)](https://github.com/pmidura/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-pmidura.vercel.app/api/top-langs/?username=pmidura&layout=compact)](https://github.com/pmidura/github-readme-stats)
 
-[![Patryk's GitHub stats](https://github-readme-stats-xi-one-66.vercel.app/api?username=pmidura&show_icons=true&theme=tokyonight)](https://github.com/pmidura/github-readme-stats)
+<!-- [![Patryk's GitHub stats](https://github-readme-stats-xi-one-66.vercel.app/api?username=pmidura&show_icons=true&theme=tokyonight)](https://github.com/pmidura/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-xi-one-66.vercel.app/api/top-langs/?username=pmidura&layout=compact)](https://github.com/pmidura/github-readme-stats) -->
 
