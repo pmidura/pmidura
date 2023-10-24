@@ -28,6 +28,7 @@
 ## 📱 My apps on Google Play Store
 
 - Gun Ready: https://play.google.com/store/apps/details?id=com.pmidura.gunready
+  
 - Currency Master: https://play.google.com/store/apps/details?id=com.pmidura.currencymaster
 
 <!-- ## 🌱 I'm currently learning
@@ -80,7 +81,7 @@
    </a>
    <a href="https://github.com/pmidura">
       <img alt="Patryk Midura Top Languages"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pmidura&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pmidura&langs_count=6&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
          height="192px"
          width="49.5%" />
    </a>
