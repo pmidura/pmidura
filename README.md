@@ -60,19 +60,15 @@
 
 <br>
 
+<h3 align="left">📈 GitHub Stats</h3>
+
+![pmidura's Stats](https://github-readme-stats.vercel.app/api?username=pmidura&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![pmidura's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmidura&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+![pmidura's Graph](https://github-readme-activity-graph.vercel.app/graph?username=pmidura&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
 <p align="right" >Created with 🧡 by Patryk Midura</p>
-
-<!-- <h3 align="left">📈 Activity Graphs</h3>
-
-## 📈 GitHub Stats
-
-[![Patryk's GitHub stats](https://github-readme-stats-pmidura.vercel.app/api?username=pmidura&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/pmidura/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-pmidura.vercel.app/api/top-langs/?username=pmidura&layout=compact)](https://github.com/pmidura/github-readme-stats)
-
-[![Patryk's GitHub stats](https://github-readme-stats-xi-one-66.vercel.app/api?username=pmidura&show_icons=true&theme=tokyonight)](https://github.com/pmidura/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-xi-one-66.vercel.app/api/top-langs/?username=pmidura&layout=compact)](https://github.com/pmidura/github-readme-stats) -->
