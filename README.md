@@ -1,173 +1,78 @@
-<h3 align="center">
-   Hi there, I'm Patryk 👋
-</h3>
+<h1 align="center">Hi there, I'm Patryk 👋</h1>
+<h3 align="center">Junior Flutter Developer 📱</h3>
 
-<h2 align="center">
-   <!-- Engineer of Computer Science and Econometrics 💻 -->
-   Junior Flutter Developer 📱
-</h2>
-
-<br>
-
-## 🤝 Connect with me
-
-<a href="https://www.linkedin.com/in/patryk-midura/">
-   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Patryk Midura | LinkedIn" />
-</a>
+<img align="right" alt="Coding Gif" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
+
+<h3 align="left">🤝 Connect with me</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/patryk-midura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/patryk.midura1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_pietrunio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+<br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<!-- ## 🔭 I'm currently working on -->
+<br>
+<h3 align="left">📱 My apps on Google Play Store</h3>
 
-<!-- - Visualise, Understand, Learn & Practice BLoC Concepts -->
-<!-- - My own mobile application, which I would like to launch on Google Play Store and App Store -->
+- <a href="https://play.google.com/store/apps/details?id=com.pmidura.gunready" target="blank">Gun Ready</a>
+
+- <a href="https://play.google.com/store/apps/details?id=com.pmidura.currencymaster" target="blank">Currency Master</a>
+<br>
+<h3 align="left">💼 Languages and Tools</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,flask,java,nodejs,php,py" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,dart,flutter,html,js,jquery" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode" />
+  </a>
+</p>
 
 <br>
 
-## 📱 My apps on Google Play Store
-
-- Gun Ready: https://play.google.com/store/apps/details?id=com.pmidura.gunready
-  
-- Currency Master: https://play.google.com/store/apps/details?id=com.pmidura.currencymaster
-
-<!-- ## 🌱 I'm currently learning
-
-- 📱 Flutter BLoC
-- ☁ Firebase -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
+<p align="right" >Created with 🧡 by Patryk Midura</p>
 
-## 💼 Technical Skills
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<br>
+<!-- <h3 align="left">📈 Activity Graphs</h3>
 
 ## 📈 GitHub Stats
-
-<!-- <p align="center">
-   <a href="https://github.com/pmidura">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmidura&theme=radical&border=7F3FBF&background=0D1117" alt="Patryk Midura GitHub Streak"/>
-   </a>
-</p>
-
-<p align="center">
-   <a href="https://github.com/pmidura">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmidura&theme=radical" alt="Patryk Midura GitHub Contribution"/>
-   </a>
-</p>
-
-<a> 
-   <a href="https://github.com/pmidura">
-      <img alt="Patryk Midura Github Stats"
-         src="https://github-readme-stats-pmidura.vercel.app/api?username=pmidura&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-         height="192px"
-         width="49.5%" />
-   </a>
-   <a href="https://github.com/pmidura">
-      <img alt="Patryk Midura Top Languages"
-         src="https://github-readme-stats-pmidura.vercel.app/api/top-langs/?username=pmidura&langs_count=6&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-         height="192px"
-         width="49.5%" />
-   </a>
-</a> -->
 
 [![Patryk's GitHub stats](https://github-readme-stats-pmidura.vercel.app/api?username=pmidura&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/pmidura/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-pmidura.vercel.app/api/top-langs/?username=pmidura&layout=compact)](https://github.com/pmidura/github-readme-stats)
 
-<!-- [![Patryk's GitHub stats](https://github-readme-stats-xi-one-66.vercel.app/api?username=pmidura&show_icons=true&theme=tokyonight)](https://github.com/pmidura/github-readme-stats)
+[![Patryk's GitHub stats](https://github-readme-stats-xi-one-66.vercel.app/api?username=pmidura&show_icons=true&theme=tokyonight)](https://github.com/pmidura/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-xi-one-66.vercel.app/api/top-langs/?username=pmidura&layout=compact)](https://github.com/pmidura/github-readme-stats) -->
-
-
-
-<!-- <h3 align="center">
-   <samp>&gt; Hi there, I'm <b>Patryk</b></samp>
-</h3>
-
-<p align="center"> 
-   <samp>
-      「 Junior Flutter Developer from <b>Poland</b> 」
-      <br>
-      <br>
-   </samp>
-</p>
-
-<br>
-
-## 🤝 Connect with me:
-   <a href="https://www.linkedin.com/in/patryk-midura/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Patryk Midura | LinkedIn" />
-   </a>
-<br>
-<br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-<br>
-<br>
-
-## 💼 Technical Skills
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<br>
-<hr />
-<br>
-
-<p align="center">
-   <a href="https://github.com/pmidura">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmidura&theme=radical&border=7F3FBF&background=0D1117" alt="Patryk Midura GitHub Streak"/>
-   </a>
-</p>
-
-<p align="center">
-   <a href="https://github.com/pmidura">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmidura&theme=radical" alt="Patryk Midura GitHub Contribution"/>
-   </a>
-</p>
-
-<a> 
-   <a href="https://github.com/pmidura">
-      <img alt="Patryk Midura Github Stats"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pmidura&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-         height="192px"
-         width="49.5%" />
-   </a>
-   <a href="https://github.com/pmidura">
-      <img alt="Patryk Midura Top Languages"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pmidura&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-         height="192px"
-         width="49.5%" />
-   </a>
-   <br>
-</a> -->
