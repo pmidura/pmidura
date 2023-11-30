@@ -62,8 +62,8 @@
 
 <h3 align="left">📈 GitHub Stats</h3>
 
-![pmidura's Stats](https://github-readme-stats.vercel.app/api?username=pmidura&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![pmidura's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmidura&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<!-- ![pmidura's Stats](https://github-readme-stats.vercel.app/api?username=pmidura&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![pmidura's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmidura&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) -->
 
 ![pmidura's Graph](https://github-readme-activity-graph.vercel.app/graph?username=pmidura&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br>
