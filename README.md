@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Patryk 👋</h1>
-<h3 align="center">Junior Flutter Developer 📱</h3>
+<!-- <h3 align="center">Junior Flutter Developer 📱</h3> -->
 
 <img align="right" alt="Coding Gif" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
